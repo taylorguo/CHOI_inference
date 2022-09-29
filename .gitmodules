@@ -1,0 +1,6 @@
+[submodule "C-HOI"]
+	path = C-HOI
+	url = https://github.com/tfzhou/C-HOI.git
+[submodule "PIC_HOIW"]
+	path = PIC_HOIW
+	url = https://github.com/YueLiao/PIC_HOIW.git
